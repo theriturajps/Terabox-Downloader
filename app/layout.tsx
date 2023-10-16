@@ -5,8 +5,8 @@ import { Inter } from "next/font/google";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "download Terabox Files",
-  description: "Download any downloadable files from terabox.com",
+  title: "Terabox File Downloader (No Ads)",
+  description: "Download any terabox files from terabox.gitforge.in website without advertisment.",
 };
 
 export default function RootLayout({
